@@ -1,0 +1,138 @@
+[
+    {
+        "answerkey": 4,
+        "option 3": "Load Testing",
+        "option 4": "Unit Testing",
+        "question": "Which is not part of system testing?",
+        "option 1": "Regression Testing",
+        "option 2": "Sanity Testing"
+    },
+    {
+        "answerkey": 3,
+        "option 3": "Decision table testing",
+        "option 4": "Adhoc Testing",
+        "question": "Which is whitebox testing technique?",
+        "option 1": "Equivalent Partitioning",
+        "option 2": "Boundary value testing"
+    },
+    {
+        "answerkey": 4,
+        "option 3": "Load Testing",
+        "option 4": "Unit Testing",
+        "question": "Which is not part of system testing?",
+        "option 1": "Regression Testing",
+        "option 2": "Sanity Testing"
+    },
+    {
+        "answerkey": 3,
+        "option 3": "Decision table testing",
+        "option 4": "Adhoc Testing",
+        "question": "Which is whitebox testing technique?",
+        "option 1": "Equivalent Partitioning",
+        "option 2": "Boundary value testing"
+    },
+    {
+        "answerkey": 2,
+        "option 3": "audits and reviews to be performed",
+        "option 4": "documents to be produced by the SQA group",
+        "question": "Which of the following is not a SQA plan for a project?",
+        "option 1": "evaluations to be performed",
+        "option 2": "amount of technical work"
+    },
+    {
+        "answerkey": 3,
+        "option 3": "quality planning",
+        "option 4": "testing",
+        "question": "Which of the following is not an appraisal cost in SQA?",
+        "option 1": ") inter-process inspection",
+        "option 2": " maintenance"
+    },
+    {
+        "answerkey": 2,
+        "option 3": "Red box testing",
+        "option 4": "Green box testing",
+        "question": "The testing in which code is checked?",
+        "option 1": ") Black box testing",
+        "option 2": "White box testing"
+    },
+    {
+        "answerkey": 4,
+        "option 3": "Alpha Testing",
+        "option 4": "Beta testing",
+        "question": "Acceptance testing is also known as",
+        "option 1": "Grey box testing",
+        "option 2": "White box testing"
+    },
+    {
+        "answerkey": 2,
+        "option 3": "Unit testing",
+        "option 4": " None of the mentioned",
+        "question": "Which of the following is non-functional testing?",
+        "option 1": "Black box testing",
+        "option 2": "Performance testing"
+    },
+    {
+        "answerkey": 1,
+        "option 3": "User\u201fs & Developer\u201fs end",
+        "option 4": "None of the mentioned",
+        "question": "Beta testing is done at",
+        "option 1": "User\u201fs end",
+        "option 2": "Developer\u201fs end"
+    },
+    {
+        "answerkey": 4,
+        "option 3": "Validation Testing",
+        "option 4": "both alpha and beta",
+        "question": "In which testing level the focus is on customer usage?",
+        "option 1": "Alpha Testing",
+        "option 2": "Beta Testing"
+    },
+    {
+        "answerkey": 2,
+        "option 3": " Procedure errors",
+        "option 4": "None of the above",
+        "question": "What is the main purpose of integration testing?",
+        "option 1": "Design errors",
+        "option 2": "Interface errors"
+    },
+    {
+        "answerkey": 3,
+        "option 3": "Unit testing",
+        "option 4": "None of the above",
+        "question": "Testing of individual component by the developers are come under which types of testing?",
+        "option 1": "Integration testing",
+        "option 2": "Validation testing"
+    },
+    {
+        "answerkey": 3,
+        "option 3": "Decision Table",
+        "option 4": "Decision Coverage",
+        "question": "When different combination of input requires different combination of actions,Which of the",
+        "option 1": "following technique is used in such situation?Boundary Value Analysis",
+        "option 2": "Equivalence Partition"
+    },
+    {
+        "answerkey": 3,
+        "option 3": "Measuring the LOC.",
+        "option 4": "None of the above",
+        "question": "Which of the following is not a part of Performance Testing?",
+        "option 1": "Measuring Transaction Rate.",
+        "option 2": "Measuring Response Time"
+    },
+    {
+        "answerkey": 1,
+        "option 3": "Unit Testing",
+        "option 4": "Integration Testing",
+        "question": "Which of the following is the form of Alpha and Beta Testing?",
+        "option 1": "Acceptance Testing",
+        "option 2": "System Testing"
+    },
+    {
+        "answerkey": 1,
+        "option 3": "Software design life cycle",
+        "option 4": "System design life cycle",
+        "question": "SDLC stands for ________",
+        "option 1": "Software development life cycle",
+        "option 2": "System development life cycle"
+    }
+]
